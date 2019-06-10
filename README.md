@@ -3,7 +3,7 @@ A Movie Search App using React
 
 App is Deployed on Heroku here: https://evening-ocean-12889.herokuapp.com/
 
-A simple React application with which users can query the OMDB API and display information about the movie searched for.
+A simple React application with which users can query the IMDB API and display information about the movie searched for.
 
 ## Available Scripts
 
